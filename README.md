@@ -9,3 +9,5 @@ c= remain alive rate
 T= time unit
 
 x[0]: initial population
+
+Change this parameter to see the different evolution of a populations
