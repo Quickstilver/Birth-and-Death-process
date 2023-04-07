@@ -16,4 +16,4 @@ A line plot displaying the expected time it takes to move from one state to anot
 
 ## Conclusions:
 
-By exploring this project, I gained a deeper understanding of stochastic models and how they can be used to study population dynamics in various contexts. This project is perfect for those interested in Data Science, ecology, or just curious about the fascinating world of simulations!
+This Birth and Death Process Simulator offers a captivating and informative way to study population dynamics through customizable parameters and insightful visualizations. It serves as an excellent learning tool for those interested in Data Science, ecology, or stochastic modeling, providing a hands-on experience in understanding the underlying mechanics of these processes. By exploring various scenarios and observing the resulting population changes, users can gain a deeper appreciation for the complex interplay between birth, death, and survival rates in shaping the growth and decline of populations. 
